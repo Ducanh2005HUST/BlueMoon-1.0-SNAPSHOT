@@ -80,7 +80,7 @@
             <dependency>
                 <groupId>net.java.dev.jna</groupId>
                 <artifactId>jna</artifactId>
-                <version>5.13.0</version> <!-- Kiểm tra phiên bản mới nhất trên Maven Central -->
+                <version>5.17.0</version> <!-- Kiểm tra phiên bản mới nhất trên Maven Central -->
             </dependency>
 
 
